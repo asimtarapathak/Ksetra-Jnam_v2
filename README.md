@@ -51,6 +51,11 @@ Ksetra-jnam-v2 takes URL as input/argunment starting with format 'http or https:
 ![image](https://github.com/user-attachments/assets/de738786-1a36-4f35-b339-2398949cacac)
 ---
 
+Ksetra-jnam-v2:
+---
+https://github.com/user-attachments/assets/81726648-e3a4-4938-a0de-47366192c13e
+---
+
 Scanning web app or URL and saving report:
 ```
 Examples:
