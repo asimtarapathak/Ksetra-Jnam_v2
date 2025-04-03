@@ -24,7 +24,7 @@ Kṣetra-jñam (the knower of the field) is a web application vulnerability scan
 
 **Note**: Python-3 must be installed in your device
 **Install Nmap (for port scanning):**
-Windows: Download from nmap.org
+Windows: Download from https://nmap.org
 Linux/Mac: sudo apt-get install nmap or brew install nmap
 
 1. Clone the Ksetra-jnam-v2 repository to your local machine
